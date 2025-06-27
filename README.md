@@ -5,9 +5,11 @@
 🃏 A man who is a jack of all trades<br/>
 
 Here’s my social link:
-Instagram:https://www.instagram.com/yvngdash999?igsh=amFud3c1OWllMnU0</br>
+Instagram: https://www.instagram.com/yvngdash999?igsh=amFud3c1OWllMnU0</br>
 
-Facebook:https://www.facebook.com/Yvng.dsh/</br>
+Facebook: https://www.facebook.com/Yvng.dsh/</br>
+
+Email: eaters514@gmail.com
 
 
 # 💻 Tech Stack:
