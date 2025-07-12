@@ -1,4 +1,4 @@
-## Hello, I'm Roe, a Front-End Developer.
+## Hello, I'm Roe, a Front-End Developer. 👨‍💻👾
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
